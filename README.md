@@ -13,7 +13,7 @@ https://typecho.gzk.ink/
 ### 获取主题
 ----------
 请加入 [计算机交流QQ群977313130][1] 获取最新发行版本
-或通过 Github仓库 获取
+或通过 [Github仓库][2] 获取
 
 ### 转载声明
 ----------
@@ -31,3 +31,4 @@ Typecho、Bootstrap、Font Awesome、吴尼玛
 
 
   [1]: https://shang.qq.com/wpa/qunwpa?idkey=c00634bc84f08d0d1c0758dd7ece6c32c9d1ebc5f7007e4a54cdfac36e0b44d6 
+  [2]: https://github.com/GongZhengke/MOCOM-Typecho-Theme/releases
