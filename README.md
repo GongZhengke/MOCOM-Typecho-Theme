@@ -1,23 +1,15 @@
 # MOCOM-Typecho-Theme
 MOCOM 双栏博客主题 For Typecho    
-全网首发：https://www.mocom.club/thread-86.htm
+（暂停维护）
 
 ### 主题介绍
 ----------
  - MOCOM THEME 是一款简约双栏博客TYPECHO主题，采用BootStrap框架设计，简洁美观。主题代码无加密，免费开源，方便您的参考和修改。
 
-### 主题预览
-----------
-https://typecho.gzk.ink/
-
 ### 获取主题
 ----------
 请加入 [计算机交流QQ群977313130][1] 获取最新发行版本
 或通过 [Github仓库][2] 获取
-
-### 转载声明
-----------
-本主题为墨客论坛（www.mocom.club） 首发，二次转载本主题源码必须进群申报。
 
 ### 感谢 ❤
 ----------
